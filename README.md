@@ -18,14 +18,22 @@ Using floating point computation (with decimal point precision technique):<br/>
 2.1) Atari "Asteroids" Arcade (1979)
 
 ### After 28 years
-2.2) "Bulalakaw Wars" Microsoft Windows System (2007)<br/>
+2.2) "Bulalakaw Wars" Microsoft Windows Operating System (2007)<br/>
 2.3) Sierra "Geometry Wars Galaxies" Nintendo DS (2007)
+
+### After 28 + 13 years; Total: 41 years
+2.4) [Usbong Education Training Course: Halimbawa (2020)](https://github.com/usbong/documentation/tree/master/Usbong/company/HR/Usbong%20Education%20Training%20Courses/Introduction%20to%20Image%20Processing%20Automation/With%20C%2B%2B%20Computer%20Language%20and%20OpenGL/UsbongHalimbawa)
+
+#### Operating Systems:
+--> Windows<br/>
+--> Linux<br/>
+--> macOS<br/>
 
 ## 4. Recommended Action: 
 4.1) verify: SNK Neo-geo Mini Arcade Start Action<br/>
 
-4.2) verify: Open Graphics Library (OpenGL)<br/>
-https://www.opengl.org/; last accessed: 20220525; from 20210922<br/>
+4.2) verify: [Open Graphics Library (OpenGL)](https://www.opengl.org/);<br/> 
+last accessed: 20220525; from 20210922<br/>
 
 
 ## 5. Open Source Software License
