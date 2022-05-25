@@ -30,7 +30,7 @@ Using floating point computation (with decimal point precision technique):<br/>
 --> macOS<br/>
 
 ## 4. Recommended Action: 
-4.1) verify: [SNK Neo-geo Mini Arcade Start Action](https://www.snk-corp.co.jp/us/neogeomini/);<br/>
+4.1) verify: [SNK Neo-geo Mini Arcade Start Action (Japanese version)](https://www.snk-corp.co.jp/neogeomini/);<br/>
 last accessed: 20220525<br/>
 
 4.2) verify: [Open Graphics Library (OpenGL)](https://www.opengl.org/);<br/> 
