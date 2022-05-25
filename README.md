@@ -12,6 +12,8 @@ Using floating point computation (with decimal point precision technique):<br/>
 
 ## 2. Output: Shooting Game
 
+<img src="https://github.com/usbong/start3D/blob/main/Windows/screenshots/usbongStart3DV20220525T1941.png" width="60%">
+
 ## 3. References: 
 2.1) Atari "Asteroids" Arcade (1979)
 
