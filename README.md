@@ -38,8 +38,8 @@ https://user.xmission.com/~nate/glut.html;<br/>
 3.1) Atari "Asteroids" Arcade (1979)
 
 ### After 28 years
-3.2) "Bulalakaw Wars" Microsoft Windows Operating System (2007)<br/>
-3.3) Sierra "Geometry Wars Galaxies" Nintendo DS (2007)
+3.2) ["Bulalakaw Wars" Microsoft Windows Operating System (2007)](http://store.usbong.ph/assets/images/videos/re-ExecutedBulalakawWars20170122T2128.mp4)<br/>
+3.3) [Sierra "Geometry Wars Galaxies" Nintendo DS (2007)](https://github.com/usbong/start3D/blob/main/notes/noteSierraGeometryWarsGalaxiesNintendoDS20220526T1915.jpg)
 
 ### After 28 + 13 years; Total: 41 years
 3.4) [Usbong Education Training Course: Halimbawa (2020)](https://github.com/usbong/documentation/tree/master/Usbong/company/HR/Usbong%20Education%20Training%20Courses/Introduction%20to%20Image%20Processing%20Automation/With%20C%2B%2B%20Computer%20Language%20and%20OpenGL/UsbongHalimbawa)
