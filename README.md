@@ -12,7 +12,19 @@ Using floating point computation (with decimal point precision technique):<br/>
 
 ## 2. Output: Shooting Game
 
-<img src="https://github.com/usbong/start3D/blob/main/Windows/screenshots/usbongStart3DV20220525T1941.png" width="60%">
+<img src="https://github.com/usbong/start3D/blob/main/Windows/screenshots/usbongStart3DV20220525T1941.png" width="60%"><br/>
+<br/>
+<b>Output Folder Size on Disk: </b>7.93MB
+
+### 2.1. Required Libraries
+#### 2.1.1 Execution
+<b>Windows machine:</b> glut32.dll<br/>
+<b>Note:</b> File already inside output folder<br/>
+<br/>
+<b>Reference:</b><br/>
+Download glut-3.7.6-bin.zip (117 KB) from:<br/> 
+https://user.xmission.com/~nate/glut.html;<br/>
+--> last accessed: 20220526; from 20210216
 
 ## 3. References: 
 2.1) Atari "Asteroids" Arcade (1979)
