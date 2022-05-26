@@ -12,9 +12,17 @@ Using floating point computation (with decimal point precision technique):<br/>
 
 ## 2. Output: Shooting Game
 
+### Windows Machine
 <img src="https://github.com/usbong/start3D/blob/main/Windows/screenshots/usbongStart3DV20220525T1941.png" width="60%"><br/>
 <br/>
-<b>Output Folder Size on Disk: </b>7.93MB
+<b>Output Folder Size on Disk: </b>7.93MB<br/>
+includes required library: glut32.dll @232KB 
+
+### Linux Machine
+<img src="https://github.com/usbong/start3D/blob/main/machine/screenshots/usbongStart3DLinuxV20220526T1152.jpg" width="60%"><br/>
+<br/>
+<b>Output Folder Size on Disk: </b>320KB<br/>
+required library already installed on Linux Machine 
 
 ### 2.1. Required Libraries
 #### 2.1.1 Execution
@@ -41,7 +49,7 @@ https://user.xmission.com/~nate/glut.html;<br/>
 --> Linux<br/>
 --> macOS<br/>
 
-## 4. Recommended Action: 
+## 4. Recommended Actions: 
 4.1) verify: [SNK Neo-geo Mini Arcade Start Action (Japanese version)](https://www.snk-corp.co.jp/neogeomini/);<br/>
 last accessed: 20220525<br/>
 
@@ -50,7 +58,7 @@ last accessed: 20220525; from 20210922<br/>
 
 
 ## 5. Open Source Software License
-Copyright 2021~2022 SYSON, MICHAEL B.
+Copyright 2020~2022 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
