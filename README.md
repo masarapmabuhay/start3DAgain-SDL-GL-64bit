@@ -1,7 +1,10 @@
 # Usbong Start 3D
 
 ### keyphrase: 
-No Simple Directmedia Layer (SDL); Open Graphics Library (OpenGL) only
+No Simple Directmedia Layer (SDL); Open Graphics Library (OpenGL) only<br/>
+<br/>
+where: SDL : compression techniques<br/>
+OpenGL : 3D Graphics techniques
 
 ## 1. Objective: 
 Increase know-how in 3-Dimensional (3D) techniques
