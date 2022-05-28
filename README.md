@@ -25,7 +25,16 @@ Using floating point computation (with decimal point precision technique):<br/>
 includes required library: glut32.dll @232KB 
 
 ### Linux Machine
-<img src="https://github.com/usbong/start3D/blob/main/machine/screenshots/usbongStart3DLinuxV20220526T1152.jpg" width="60%"><br/>
+<table>
+   <tr>
+      <td>
+<img src="https://github.com/usbong/start3D/blob/main/machine/screenshots/usbongStart3DLinuxV20220526T1152.jpg" width="90%">
+      </td>
+      <td>
+<img src="https://github.com/usbong/start3D/blob/main/machine/screenshots/usbongStart3DLinuxAnimatingScreenshotImageSetV20220528T1637.gif" width="100%">
+      </td>      
+   </tr>
+</table>
 <br/>
 <b>Output Folder Size on Disk: </b>320KB<br/>
 required library already installed on Linux Machine 
