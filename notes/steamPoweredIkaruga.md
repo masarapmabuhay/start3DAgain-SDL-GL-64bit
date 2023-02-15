@@ -1,4 +1,4 @@
-# Lessons-learned: IKARUGA (STEAMPOWERED)
+# Lessons-learned: [IKARUGA (STEAMPOWERED)](https://store.steampowered.com/app/253750/Ikaruga/)
 
 SHOOTING GAME;
 
@@ -13,3 +13,7 @@ SHOOTING GAME;
 
 4) caution: when attempting to destroy everything;<br/>
 --> due: to ENERGY BULLETS as OUTPUT from destroyed object may HIT self;
+
+5) notes: self is destroyed after hitting ENEMY even if with SAME POLARITY;
+
+6) notes: OUTPUT ENERGY BULLETS from destroyed ENEMY are of the SAME POLARITY as that used to destroy it;
