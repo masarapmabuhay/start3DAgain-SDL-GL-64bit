@@ -26,5 +26,5 @@ SHOOTING GAME;
 8) notes: technique of listening to RADIO using MACHINE#2 with one (1) earphone (with mic),<br/>
 --> while as PILOT in JET FIGHTER of MACHINE#1 also with one (1) earphone, executing STEAMPOWERED; <br/>
 --> Churchill, W.'s [The Gathering Storm](https://www.amazon.com/Gathering-Storm-Second-World-War/dp/039541055X)?<br/>
---> RADIO: [YES933 Singpore](https://www.melisten.sg/radio/yes-933)<br/>
+--> RADIO: [YES933 Singapore](https://www.melisten.sg/radio/yes-933)<br/>
 --> RADIO: [TOKYO FM: School of Lock](https://www.tfm.co.jp/lock/index.html); 
