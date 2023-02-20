@@ -17,6 +17,8 @@ SHOOTING GAME;
 5) notes: self is destroyed after hitting ENEMY even if with SAME POLARITY;
 
 6) notes: OUTPUT ENERGY BULLETS from destroyed ENEMY are of the SAME POLARITY as that used to destroy it;
+--> IF ENERGY BULLET used to destroy ENEMY is of opposite POLARITY of the destroyed ENEMY,<br/> 
+--> there shall be no OUTPUT ENERGY BULLETS
 
 7) notes: HOMING ENERGY BULLETS auto-targets based on nearest distance to self;<br/>
 --> adds: RISK & RETURN exists due to noticeable count of destroyed ENEMIES<br/> 
@@ -28,3 +30,9 @@ SHOOTING GAME;
 --> Churchill, W.'s [The Gathering Storm](https://www.amazon.com/Gathering-Storm-Second-World-War/dp/039541055X)?<br/>
 --> RADIO: [YES933 Singapore](https://www.melisten.sg/radio/yes-933)<br/>
 --> RADIO: [TOKYO FM: School of Lock](https://www.tfm.co.jp/lock/index.html); 
+
+9) observed: listening/viewing another MONITOR (YOUTUBE) via MACHINE#2<br/> 
+--> causes ERRORS for fast ACTION JET FIGHTER SIMULATION in MACHINE#1; <br/>
+--> adds: AD/CM appears; example: GRAMMARLY in [JWONG in JAPAN: USF4](https://www.youtube.com/watch?v=KqPpUEPWF_M);<br/>
+--> notes: RADIO (audio only) appears more EFFECTIVE
+
