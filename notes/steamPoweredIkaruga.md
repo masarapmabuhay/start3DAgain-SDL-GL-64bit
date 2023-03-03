@@ -19,6 +19,7 @@ SHOOTING GAME;
 6) notes: OUTPUT ENERGY BULLETS from destroyed ENEMY are of the SAME POLARITY as that used to destroy it;
 --> IF ENERGY BULLET used to destroy ENEMY is of opposite POLARITY of the destroyed ENEMY,<br/> 
 --> there shall be no OUTPUT ENERGY BULLETS
+--> adds: OUTPUT ENERGY BULLETS from destroyed enemies move toward self;
 
 7) notes: HOMING ENERGY BULLETS auto-targets based on nearest distance to self;<br/>
 --> adds: RISK & RETURN exists due to noticeable count of destroyed ENEMIES<br/> 
@@ -47,4 +48,11 @@ SHOOTING GAME;
 --> via: usual holding of the XBOX360 controller with hands,<br/>
 --> where: XBOX button of controller is a square @x and z-axes <br/>
 --> of the default coordinate system;
+
+13) observed: ship’s POLARITY “shield”<br/>
+—> auto-displayed after POLARITY switch;<br/>
+—> NOT when shooting ENERGY BULLETS
+
+14) observed: increased DAMAGE to ENEMY via use of ENERGY BULLETS,<br/>
+--> whose: POLARITY is opposite as that of the ENEMY's
 
