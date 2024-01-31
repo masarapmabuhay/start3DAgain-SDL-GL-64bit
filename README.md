@@ -77,6 +77,20 @@ last accessed: 20220310<br/>
 answer by: A-Sharabiani, 20170719T1535<br/>
 edited by: Amir, 20180425T1940<br/>
 
+### 3.3.2 Windows machine
+
+1) Download: DevCPP
+
+https://sourceforge.net/projects/orwelldevcpp/; last accessed: 20240131
+
+2) Put glut.h in the following directoy:
+
+> C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\GL
+
+TODO: -update: this
+
+
+
 ## 4. References: 
 4.1) Atari "Asteroids" Arcade (1979)
 
@@ -92,6 +106,13 @@ edited by: Amir, 20180425T1940<br/>
 --> Linux<br/>
 --> macOS<br/>
 
+### Miscellaneous
+
+4.5) stackoverflow.com
+
+https://stackoverflow.com/questions/19858072/opengl-gl-glut-h-no-such-file-or-directory; last accessed: 20240131
+
+
 ## 5. Recommended Actions: 
 5.1) verify: [SNK NEO•GEO Mini Arcade Start Action (Japanese version)](https://www.snk-corp.co.jp/neogeomini/);<br/>
 last accessed: 20220525<br/>
@@ -101,7 +122,7 @@ last accessed: 20220525; from 20210922<br/>
 
 
 ## 6. Open Source Software License
-Copyright 2020~2022 SYSON, MICHAEL B.
+Copyright 2020~2024 SYSON, MICHAEL B.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
