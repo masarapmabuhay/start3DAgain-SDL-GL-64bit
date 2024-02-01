@@ -1,5 +1,5 @@
 /*
- * Copyright 2020~2022 SYSON, MICHAEL B.
+ * Copyright 2020~2024 SYSON, MICHAEL B.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -15,7 +15,7 @@
  * @company: USBONG
  * @author: SYSON, MICHAEL B.
  * @date created: 20200926
- * @date updated: 20220526; from 20201016
+ * @date updated: 20240201; from 20220526
  * @website address: http://www.usbong.ph
  * 
  * References:
@@ -525,6 +525,9 @@ void keyUp (unsigned char key, int x, int y)
         return;// 0;
 }
 
+
+//added by Mike, 20240201
+//note Linux version;
 int main(int argc, char** argv) {
    glutInit(&argc, argv);                 // Initialize GLUT
    //edited by Mike, 20200930
