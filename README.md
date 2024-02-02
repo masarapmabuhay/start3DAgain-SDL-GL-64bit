@@ -87,6 +87,10 @@ https://sourceforge.net/projects/orwelldevcpp/; last accessed: 20240131
 
 > C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\GL
 
+3) Put "glut32.dll" in the following directory:
+
+> "C:\Windows\System32"
+
 TODO: -update: this
 
 
