@@ -79,6 +79,12 @@ edited by: Amir, 20180425T1940<br/>
 
 ### 3.3.2 Windows machine
 
+#### Instructions to add GLUT library in Dev-C++ Editor 5.11
+
+https://chortle.ccsu.edu/Bloodshed/howToGL.html; last accessed: 20240203; from 20200927
+
+#### Additional Notes
+
 1) Download: DevCPP
 
 https://sourceforge.net/projects/orwelldevcpp/; last accessed: 20240131
