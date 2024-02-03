@@ -109,6 +109,8 @@ https://sourceforge.net/projects/orwelldevcpp/; last accessed: 20240131
 
 `-static-libgcc`
 
+<img src="https://github.com/usbong/start3D/blob/main/notes/devcppEditor/devcppConfigV20240203.png" width="60%"><br/>
+
 TODO: -update: this
 
 
