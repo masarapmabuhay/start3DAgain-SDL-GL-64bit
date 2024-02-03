@@ -6,7 +6,7 @@ Simple Directmedia Layer (SDL);<br/>
 where: SDL : compression techniques<br/>
  
 Open Graphics Library (OpenGL)<br/>
-OpenGL : 3D Graphics techniques
+where: OpenGL : 3D Graphics techniques
 
 ### Windows machine
 
