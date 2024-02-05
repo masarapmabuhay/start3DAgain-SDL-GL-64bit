@@ -1,5 +1,9 @@
 # Usbong Start 3D Again
 
+TODO: -verify: as reference
+
+https://github.com/usbong/pagong
+
 ### keyphrase: 
 
 Simple Directmedia Layer (SDL);<br/>
