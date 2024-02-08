@@ -18,6 +18,24 @@ where: OpenGL : 3D Graphics techniques
 
 https://chortle.ccsu.edu/Bloodshed/howToGL.html; last accessed: 20240203; from 20200927
 
+#### ERROR: rectangle.c example
+
+> Project is not compiled. Compile now?
+
+YES
+
+> Source file not compiled.
+
+OK
+
+> Compilation results...
+> --------
+> - Errors: 0
+> - Warnings: 0
+> - Compilation Time: 0.06s
+
+No output application.
+
 #### Additional Notes
 
 1) Download: DevCPP
