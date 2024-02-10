@@ -34,9 +34,15 @@ https://sourceforge.net/projects/orwelldevcpp/; last accessed: 20240131
 
 > C:\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\GL
 
-3) Put "glut32.dll" in the following directory:
+3) Put "glut32.dll" in the following directories:
+
+3.1 
 
 > "C:\Windows\System32"
+
+3.2 your project folder where the output .exe application is put after compilation
+
+Example: `C:\GLproject`
 
 4) DevCPP Project -> Project Options -> Parameters
 
